@@ -8,6 +8,7 @@ import Hero from './sections/Hero';
 import FirstVideo from './sections/FirstVideo';
 import Jason from './sections/Jason';
 import SecondVideo from './sections/SecondVideo';
+import Lucia from './sections/Lucia';
 
 const App = () => {
   return (
@@ -19,7 +20,7 @@ const App = () => {
        <Jason/>
 
        <SecondVideo/>
-       
+       <Lucia/>
     </main>
   )
 }
