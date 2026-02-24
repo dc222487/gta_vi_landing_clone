@@ -1,0 +1,7 @@
+The implemented frontend is in freerooms clone folder
+
+go into the folder and run 
+npm i 
+
+and then run 
+npm start build
